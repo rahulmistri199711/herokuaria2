@@ -2,6 +2,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmaple3142%2Fheroku-aria2c&template=https%3A%2F%2Fgithub.com%2Fmaple3142%2Fheroku-aria2c
+
 ## Optionally sync downloaded file to your cloud drive with Rclone
 
 1. Setup Rclone by following offical instructions: https://rclone.org/docs/
